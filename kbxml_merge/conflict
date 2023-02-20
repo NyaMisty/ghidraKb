@@ -1,0 +1,65 @@
+Conflicting: Bookmarks (Shared)
+     +nullteilerfrei.kbxml SHIFT_MASK+VK_F9
+     katechondic.kbxml CTRL_MASK+VK_B
+     default None
+Conflicting: Symbol Table (Shared)
+     +nullteilerfrei.kbxml SHIFT_MASK+VK_F3
+     katechondic.kbxml CTRL_MASK+VK_T
+     default None
+Conflicting: Edit Function Signature (DecompilePlugin)
+     nullteilerfrei.kbxml VK_F
+     +enovella.kbxml VK_Y
+     default None
+Conflicting: Auto Analyze (AutoAnalysisPlugin)
+     nullteilerfrei.kbxml ALT_MASK+VK_A
+     JeremyBlackthorne.kbxml SHIFT_MASK+VK_A
+     katechondic.kbxml SHIFT_MASK+VK_A
+     default VK_A
+Conflicting: Show References To Address (Shared)
+     nullteilerfrei.kbxml SHIFT_MASK+VK_X
+     +katechondic.kbxml VK_X
+     default None
+Conflicting: Cycle: byte,word,dword,qword (Shared)
+     +nullteilerfrei.kbxml VK_D
+     katechondic.kbxml VK_B
+     default None
+Conflicting: Choose Data Type (Shared)
+     nullteilerfrei.kbxml VK_Y
+     +katechondic.kbxml VK_T
+     default None
+Conflicting: Set EOL Comment (CommentsPlugin)
+     nullteilerfrei.kbxml VK_INSERT
+     +enovella.kbxml VK_SLASH
+     default None
+Conflicting: Find References To (Shared)
+     +nullteilerfrei.kbxml VK_X
+     katechondic.kbxml SHIFT_MASK+CTRL_MASK+VK_F
+     default None
+Conflicting: Clear Cut (DataTypeManagerPlugin)
+     +nullteilerfrei.kbxml None
+     JeremyBlackthorne.kbxml SHIFT_MASK+VK_ESCAPE
+     katechondic.kbxml SHIFT_MASK+VK_ESCAPE
+     default VK_ESCAPE
+Conflicting: Add Bookmark (BookmarkPlugin)
+     nullteilerfrei.kbxml VK_F9
+     +JeremyBlackthorne.kbxml ALT_MASK+VK_M
+     katechondic.kbxml ALT_MASK+VK_M
+     default META_MASK+VK_D
+Conflicting: Decompiler (Shared)
+     +nullteilerfrei.kbxml VK_F5
+     katechondic.kbxml CTRL_MASK+VK_E
+     default None
+Conflicting: Previous Selected Range (NextPrevSelectedRangePlugin)
+     enovella.kbxml CTRL_MASK+VK_BRACELEFT
+     JeremyBlackthorne.kbxml META_MASK+VK_BRACELEFT
+     katechondic.kbxml CTRL_MASK+VK_BRACELEFT
+     +default SHIFT_MASK+META_MASK+VK_CLOSE_BRACKET
+Conflicting: Next Selected Range (NextPrevSelectedRangePlugin)
+     enovella.kbxml CTRL_MASK+VK_BRACERIGHT
+     JeremyBlackthorne.kbxml META_MASK+VK_BRACERIGHT
+     katechondic.kbxml CTRL_MASK+VK_BRACERIGHT
+     +default SHIFT_MASK+META_MASK+VK_OPEN_BRACKET
+Conflicting: Zoom In (FunctionGraphPlugin)
+     JeremyBlackthorne.kbxml SHIFT_MASK+META_MASK+VK_EQUALS
+     katechondic.kbxml SHIFT_MASK+CTRL_MASK+VK_EQUALS
+     +default META_MASK+VK_EQUALS
